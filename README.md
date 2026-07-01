@@ -1,16 +1,18 @@
-<div align="center">
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=MD.%20Rayhan&fontSize=48&fontColor=fff&animation=twinkling)
 
-# MD. Rayhan
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Flutter+%7C+Python+%7C+FastAPI;AI+%26+Cloud+Engineering" alt="Typing SVG" />
+  </a>
+</p>
 
-**Full-Stack Software Engineer** · Flutter · Python · FastAPI · AI & Cloud
+<p align="center">
+  <a href="https://linkedin.com/in/rayhan-hossin-08a43612a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://kaggle.com/rayhan13ads"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="mailto:rayhan13ads@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rayhan-hossin-08a43612a)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/rayhan13ads)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rayhan13ads@gmail.com)
-
-</div>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=302b63&height=3&section=header" width="100%" />
 
 ## About
 
@@ -20,17 +22,29 @@ Full-stack software engineer with experience building mobile applications, backe
 - **Focused on** AI agents, LangChain, LangGraph, RAG, and MCP
 - **Core strengths:** Flutter, FastAPI, Python, system design, and scalable backend development
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=302b63&height=3&section=header" width="100%" />
 
 ## Featured Projects
 
-| Project | Description | Link |
-| --- | --- | --- |
-| Foodbite | Food delivery mobile app — Flutter | [Play Store](https://play.google.com/store/apps/details?id=com.xfoodonline.foodbitebd) |
-| Edu Consult Global | End-to-end web platform (shipped) | [educonsultglobal.org](https://educonsultglobal.org/) |
-| TrustHolidays | Travel platform (latest shipped project) | [trustholidays.net](https://trustholidays.net/) |
+### Foodbite
 
----
+> Food delivery mobile app built with Flutter
+
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://play.google.com/store/apps/details?id=com.xfoodonline.foodbitebd) · [Play Store](https://play.google.com/store/apps/details?id=com.xfoodonline.foodbitebd)
+
+### Edu Consult Global
+
+> End-to-end web platform — shipped
+
+[educonsultglobal.org](https://educonsultglobal.org/)
+
+### TrustHolidays
+
+> Travel platform — latest shipped project
+
+[trustholidays.net](https://trustholidays.net/)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=302b63&height=3&section=header" width="100%" />
 
 ## Technical Skills
 
@@ -38,55 +52,77 @@ Technologies I work with regularly in production and side projects.
 
 ### Languages & Frameworks
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,dart,flutter,js,ts,nodejs&theme=dark&perline=6" alt="Languages and Frameworks" />
+  </a>
+</p>
+
+### Backend
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,django,flask,express&theme=dark&perline=4" alt="Backend" />
+  </a>
+</p>
+
+### Frontend
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark&perline=4" alt="Frontend" />
+  </a>
+</p>
 
 ### AI / Data
 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=4" alt="AI and Data" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+</p>
 
 ### Databases & Cloud
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,aws,gcp,azure,docker,kubernetes,git,linux&theme=dark&perline=6" alt="Databases and Cloud" />
+  </a>
+</p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=302b63&height=3&section=header" width="100%" />
 
 ## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rayhan13ads&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan13ads&layout=compact&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rayhan13ads&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan13ads&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhan13ads&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhan13ads&theme=dark&hide_border=true" alt="GitHub streak" />
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayhan13ads&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub trophies" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=302b63&height=3&section=header" width="100%" />
+
+## Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rayhan13ads/rayhan13ads/main/dist/github-contribution-grid-snake-dark.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/rayhan13ads/rayhan13ads/main/dist/github-contribution-grid-snake.svg" />
+</picture>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=302b63&height=3&section=header" width="100%" />
 
 ## Contact
 
@@ -94,6 +130,10 @@ Open to collaboration, consulting, and technical discussions.
 
 **Email:** [rayhan13ads@gmail.com](mailto:rayhan13ads@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rayhan-hossin-08a43612a)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/rayhan13ads)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/rayhan.hossin/)
+<p align="center">
+  <a href="https://linkedin.com/in/rayhan-hossin-08a43612a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.kaggle.com/rayhan13ads"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://www.facebook.com/rayhan.hossin/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+</p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=fff)
