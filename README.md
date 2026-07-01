@@ -117,10 +117,12 @@ Technologies I work with regularly in production and side projects.
 
 ## Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rayhan13ads/rayhan13ads/main/dist/github-contribution-grid-snake-dark.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/rayhan13ads/rayhan13ads/main/dist/github-contribution-grid-snake.svg" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
+    <img alt="GitHub contribution snake" src="dist/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=302b63&height=3&section=header" width="100%" />
 
