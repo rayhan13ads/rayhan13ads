@@ -1,29 +1,42 @@
-<h1 align="center">Hi there, I'm MD. Rayhan 👋</h1>
-<h3 align="center">Full-Stack Software Engineer | Flutter · Python · FastAPI · AI & Cloud</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rayhan13ads&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://linkedin.com/in/rayhan-hossin-08a43612a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://kaggle.com/rayhan13ads"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-  <a href="mailto:rayhan13ads@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+# MD. Rayhan
 
----
+**Full-Stack Software Engineer** · Flutter · Python · FastAPI · AI & Cloud
 
-### 👨‍💻 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rayhan-hossin-08a43612a)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/rayhan13ads)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rayhan13ads@gmail.com)
 
-- 🔭 Currently building **[Foodbite](https://play.google.com/store/apps/details?id=com.xfoodonline.foodbitebd)**, a food delivery app
-- 🌱 Currently deep-diving into **AI Agents, LangChain, LangGraph, RAG, and MCP**
-- 🚀 Recently shipped **[Edu Consult Global](https://educonsultglobal.org/)** end-to-end
-- 🎯 Latest project: **[TrustHolidays](https://trustholidays.net/)**
-- 💬 Ask me about **Flutter, FastAPI, Python, AI Agents, LangChain/LangGraph, System Design, and Scalable Software Development**
-- 📫 Reach me at **rayhan13ads@gmail.com**
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## About
 
-**Languages & Frameworks**
+Full-stack software engineer with experience building mobile applications, backend APIs, and AI-powered systems. I design and ship production software across the stack — from Flutter clients to FastAPI services and cloud deployments.
+
+- **Currently building** [Foodbite](https://play.google.com/store/apps/details?id=com.xfoodonline.foodbitebd), a food delivery mobile app
+- **Focused on** AI agents, LangChain, LangGraph, RAG, and MCP
+- **Core strengths:** Flutter, FastAPI, Python, system design, and scalable backend development
+
+---
+
+## Featured Projects
+
+| Project | Description | Link |
+| --- | --- | --- |
+| Foodbite | Food delivery mobile app — Flutter | [Play Store](https://play.google.com/store/apps/details?id=com.xfoodonline.foodbitebd) |
+| Edu Consult Global | End-to-end web platform (shipped) | [educonsultglobal.org](https://educonsultglobal.org/) |
+| TrustHolidays | Travel platform (latest shipped project) | [trustholidays.net](https://trustholidays.net/) |
+
+---
+
+## Technical Skills
+
+Technologies I work with regularly in production and side projects.
+
+### Languages & Frameworks
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
@@ -37,7 +50,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-**AI / Data**
+### AI / Data
 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -45,7 +58,7 @@
 ![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-**Databases & Cloud**
+### Databases & Cloud
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -62,27 +75,25 @@
 
 ---
 
-### 📊 GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rayhan13ads&show_icons=true&theme=default&hide_border=true&count_private=true" alt="rayhan13ads stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan13ads&layout=compact&hide_border=true" alt="rayhan13ads top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rayhan13ads&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhan13ads&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhan13ads&hide_border=true" alt="rayhan13ads streak stats" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayhan13ads&theme=flat&no-frame=true&row=1&column=6" alt="rayhan13ads trophies" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayhan13ads&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+## Contact
 
-<p align="left">
-<a href="https://linkedin.com/in/rayhan-hossin-08a43612a" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/rayhan13ads" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
-<a href="https://www.facebook.com/rayhan.hossin/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-</p>
+Open to collaboration, consulting, and technical discussions.
+
+**Email:** [rayhan13ads@gmail.com](mailto:rayhan13ads@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rayhan-hossin-08a43612a)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/rayhan13ads)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/rayhan.hossin/)
