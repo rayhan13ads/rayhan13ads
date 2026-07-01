@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Flutter+%7C+Python+%7C+FastAPI;AI+%26+Cloud+Engineering" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;FastAPI+%C2%B7+Flutter+(Android+%26+iOS);AI+Agents+%26+Cloud" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,11 +16,11 @@
 
 ## About
 
-Full-stack software engineer with experience building mobile applications, backend APIs, and AI-powered systems. I design and ship production software across the stack — from Flutter clients to FastAPI services and cloud deployments.
+Full-stack software engineer building mobile apps, backend APIs, and AI-powered systems. I ship production software end to end — from Flutter (Android & iOS) to FastAPI services and cloud deployments.
 
 - **Currently building** [Foodbite](https://play.google.com/store/apps/details?id=com.xfoodonline.foodbitebd), a food delivery mobile app
 - **Focused on** AI agents, LangChain, LangGraph, RAG, and MCP
-- **Core strengths:** Flutter, FastAPI, Python, system design, and scalable backend development
+- **Core strengths:** Flutter, FastAPI, Python, system design, scalable backends
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=302b63&height=3&section=header" width="100%" />
 
