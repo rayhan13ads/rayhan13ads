@@ -110,7 +110,7 @@ Technologies I work with regularly in production and side projects.
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayhan13ads&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub trophies" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.benkou.dev/?username=rayhan13ads&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub trophies" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=302b63&height=3&section=header" width="100%" />
@@ -119,8 +119,8 @@ Technologies I work with regularly in production and side projects.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
-    <img alt="GitHub contribution snake" src="dist/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rayhan13ads/rayhan13ads/main/dist/github-contribution-grid-snake-dark.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/rayhan13ads/rayhan13ads/main/dist/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
